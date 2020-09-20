@@ -9,5 +9,8 @@ There are 5 Courses in this Specialization from Coursera:
 5 - Sequence Models
 
 
+![Screenshot 2020-09-20 at 21 37 17](https://user-images.githubusercontent.com/33375433/93721696-b2f95f00-fb89-11ea-9506-080050f12a2d.png)
+
+
 
 
