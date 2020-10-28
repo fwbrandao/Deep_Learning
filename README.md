@@ -6,7 +6,7 @@
 4 - Convolutional Neural Networks.<br />
 5 - Sequence Models.<br />
 
-# Skill in this Specialization
+# Skill learned
 
 ![Screenshot 2020-09-24 at 21 47 44](https://user-images.githubusercontent.com/33375433/94198776-b3f2ff00-feaf-11ea-8cdf-019d8d048d7d.png)
 
